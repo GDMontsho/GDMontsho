@@ -1,4 +1,4 @@
-# 👋 Hi, I’m GDMontsho!
+# 👋 Hi, I’m Goitseone Montsho!
 
 ### 🌐 About Me
 - 🎓 I’m currently completing a 14-month Fullstack Development course at DCI.
