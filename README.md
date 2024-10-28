@@ -10,7 +10,7 @@
 - 💡 If you're interested in collaborating on web projects or need help with HTML, CSS, or JavaScript, feel free to reach out!
 
 ### 📫 How to Reach Me
-- LinkedIn:[Lets connect] (www.linkedin.com/in/goitseone-montsho-854345311)
+- LinkedIn:[Lets connect](www.linkedin.com/in/goitseone-montsho-854345311)
 - Email: [write to me](mailto:montshogoitseone@gmail.com)
 
 ---
