@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Goitseone Montsho!
 
 ### 🌐 About Me
-- 🎓 I’m currently completing a 14-month Fullstack Development course at DCI.
-- 💻 Skills: HTML, CSS, JavaScript, and Fullstack fundamentals (with additional technologies learned at DCI).
-- 🎯 Interests: Building responsive websites, interactive user interfaces, and diving deeper into backend technologies.
+- 🎓 I’m  have successfully completed a 14-month Fullstack Development course at DCI.
+- 💻 Skills: HTML, CSS, JavaScript,Typescript, REST-APIS, MongoDb, Postgresql, Figma and design principles and Fullstack fundamentals (with additional technologies learned at DCI).
+- 🎯 Interests: reading macabre literature, building responsive websites, interactive user interfaces, and diving deeper into backend technologies.
 
 ### 🚀 Projects & Collaboration
 - 🌱 I'm currently working on Fullstack projects and am always excited to collaborate on real-world applications or open-source projects.
@@ -15,7 +15,7 @@
 
 ---
 
-> *"Striving for clean code, continuous learning, and impactful solutions."*
+> *"Striving for clean code, continuous learning, and being inspired by other like-minded people who are passionate about programming as a craft."*
 
 <!---
 GDMontsho/GDMontsho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
